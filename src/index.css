@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+/* Smooth scrolling agar saat menu diklik transisinya halus */
+html {
+  scroll-behavior: smooth;
+}
