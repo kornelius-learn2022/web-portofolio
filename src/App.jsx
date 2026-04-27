@@ -40,7 +40,7 @@ export default function App() {
     name: "KORNELIUS PUTRA ADITAMA",
     role: "IT Educator & Full-Stack Developer",
     summary:
-      "An IT Educator and Full-Stack Developer with over 2 years of experience delivering interactive coding and digital media classes. Skilled in translating complex programming concepts into engaging, logic-driven lesson plans. Passionate about building fun, student-centric learning environments and modern web applications.",
+      "An IT Educator and Full-Stack Developer with over 3 years of experience delivering interactive coding and digital media classes. Skilled in translating complex programming concepts into engaging, logic-driven lesson plans. Passionate about building fun, student-centric learning environments and modern web applications.",
     email: "korneliusputra85@gmail.com",
     phone: "+6285853534667",
     address: "Keputih Gg. 01 No. 03, Surabaya",
